@@ -20,6 +20,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Go back to ](https://www.cloudwaitress.com)[buyerdeliv.com](https://www.buyerdeliv.com/)
 {% endhint %}
-
